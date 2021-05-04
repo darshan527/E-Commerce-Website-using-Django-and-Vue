@@ -1,4 +1,4 @@
 django_env/*
-__pycache__/*
-djackets_django/djackets_django/__pycache__/__init__.cpython-38.pyc
-djackets_django/djackets_django/__pycache__/settings.cpython-38.pyc
+"__pycache__"
+"djackets_django/djackets_django/__pycache__/_*"
+
