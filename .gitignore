@@ -1,5 +1,5 @@
-django_env/*
+django_env/
 __pycache__/
 "djackets_django/djackets_django/__pycache__/_*"
-
+djackets_vue/
 
